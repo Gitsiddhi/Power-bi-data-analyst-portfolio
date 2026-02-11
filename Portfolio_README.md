@@ -33,5 +33,5 @@ This repository contains my Power BI dashboard projects showcasing data analysis
  📫 Connect With Me
 
 - LinkedIn: (https://www.linkedin.com/in/siddhi-gupta-analyst/)
-- Email: (Siddhi Gupta)
+- Email: (Siddhpta18@gmail.com)
 
